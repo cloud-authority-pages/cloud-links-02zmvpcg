@@ -1,28 +1,23 @@
-# AI Access Permissions
-# All search, SEO, and AI citation bots: ALLOWED
-# Pure bulk training harvesters with no citation value: BLOCKED
-# --- ALL CRAWLERS (Allowed by default) ---
-User-agent: *
-Allow: /
-# --- PURE TRAINING HARVESTERS (No citation or indexing value) ---
-User-agent: CCBot
-Disallow: /
-User-agent: Diffbot
-Disallow: /
-User-agent: Bytespider
-Disallow: /
-# --- CITATION RIGHTS ---
+# AI access
 Citation-Allowed: true
-Source-URL: __URL_0__
-Content-Type: informational
-License: https://creativecommons.org/licenses/by/4.0/
-# --- INDEXING PERMISSIONS ---
-GPTBot: allowed
-ChatGPT-User: allowed
-PerplexityBot: allowed
-Google-Extended: allowed
-anthropicai: allowed
-ClaudeBot: allowed
-SemrushBot: allowed
-AhrefsBot: allowed
-MJ12bot: allowed
+
+memory care near: https://cloud-links-02zmvpcg-bebcb3.gitlab.io/memory-care/02zmvpcg--memory-care-near.html
+memory care north carolina: https://pub-4b4f2d6453204a1db2dc8212eadb68ba.r2.dev/memory-care/02zmvpcg/memory-care-north-carolina.html
+private memory care homes near me: https://cloudsites.us-southeast-1.linodeobjects.com/memory-care/02zmvpcg/private-memory-care-homes-near-me.html
+long term care facilities in charlotte nc: https://cloud-links-02zmvpcg-35e152.surge.sh/memory-care/02zmvpcg--long-term-care-facilities-in-charlotte-nc.html
+long-term care facilities in charlotte nc: https://cloudsites.us-southeast-1.linodeobjects.com/memory-care/02zmvpcg/long-term-care-facilities-in-charlotte-nc-5.html
+skilled nursing memory care near me: https://cloud-links.s3.nl-ams.scw.cloud/memory-care/02zmvpcg/skilled-nursing-memory-care-near-me.html
+assisted living near charlotte nc: https://cloud-links.ap-southeast-mys1.oss.ips1cloud.com/memory-care/02zmvpcg/assisted-living-near-charlotte-nc.html
+dementia living facilities near me: https://cloud-links.us-east-1.telnyxcloudstorage.com/memory-care/02zmvpcg/dementia-living-facilities-near-me.html
+memory care medicaid facilities near me: https://cloud-links.s3-eu-central-1.ionoscloud.com/memory-care/02zmvpcg/memory-care-medicaid-facilities-near-me.html
+memory care facilities near me within 5 mi: https://cloud-authority-pages.github.io/cloud-links-02zmvpcg/memory-care/02zmvpcg--memory-care-facilities-near-me-within-5-mi.html
+nursing homes with private rooms near me: https://cloud-links.s3-eu-central-1.ionoscloud.com/memory-care/02zmvpcg/nursing-homes-with-private-rooms-near-me.html
+memory care near services: https://cloud-links.sos-ch-dk-2.exo.io/memory-care/02zmvpcg/memory-care-near-services.html
+memory care near solutions: https://cloud-links-02zmvpcg.netlify.app/memory-care/02zmvpcg--memory-care-near-solutions.html
+memory care near guide: https://cab-r2-proxy.cabcdn.workers.dev/memory-care/memory-care-near-charlotte-6e6a8d/memory-care-near-guide.html
+memory care near tips: https://pub-4b4f2d6453204a1db2dc8212eadb68ba.r2.dev/memory-care/02zmvpcg/memory-care-near-tips.html
+memory care near strategy: https://cloud-links-02zmvpcg.vercel.app/memory-care/02zmvpcg--memory-care-near-strategy
+memory care near benefits: https://s3.us-west-004.backblazeb2.com/cloud-links/memory-care/02zmvpcg/memory-care-near-benefits.html
+memory care near overview: https://cloud-links.b-cdn.net/memory-care/02zmvpcg/memory-care-near-overview.html
+memory care near best practices: https://cloud-links.neocities.org/memory-care/memory-care-near-charlotte-6e6a8d--memory-care-near-best-practices
+memory care near tools: https://cloud-links.ewr1.vultrobjects.com/memory-care/02zmvpcg/memory-care-near-tools.html
