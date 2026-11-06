@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cloud-authority-pages.github.io/cloud-links-02zmvpcg/memory-care/sitemap.xml
